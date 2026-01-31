@@ -3,10 +3,10 @@
      A practical implementation of Multiple Linear Regression using scikit-learn to solve two real-world inspired prediction problems.
 
 This project demonstrates the complete ML workflow:
-         Data preparation
-         Model training
-         Evaluation
-         Interpretation
+         Data preparation,   
+         Model training,  
+         Evaluation,   
+         Interpretation,  
          Prediction on new inputs
 
 1️⃣ Freelancer Project Rate Prediction
