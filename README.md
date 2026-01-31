@@ -1,5 +1,5 @@
 
-📊 Machine Learning Regression 
+📊 Machine Learning Regression:
      A practical implementation of Multiple Linear Regression using scikit-learn to solve two real-world inspired prediction problems.
 
 This project demonstrates the complete ML workflow:
