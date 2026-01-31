@@ -14,14 +14,17 @@ Objective
   Predict the appropriate project rate based on:   
          Number of website pages   
          Deadline (in days)     
+         
 Why This Matters   
       Freelancers often price projects inconsistently. A regression model provides a data-driven pricing approach.
    
 Features:    
   pages,       
   deadlines   
+  
 Target:    
-  project_rate       
+  project_rate    
+  
 Models:    
   sklearn.linear_model.LinearRegression        
   
@@ -37,8 +40,10 @@ Understanding performance drivers helps optimize academic outcomes.
 Features:      
    study_hours        
    absences     
+   
 target:        
    marks       
+   
 Models:     
   sklearn.linear_model.LinearRegression       
 
