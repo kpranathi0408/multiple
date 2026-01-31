@@ -50,12 +50,12 @@ Models:
 🧠 Methodology          
 
 For both problems:
-      1 Dataset creation (synthetic data),
-      2 Feature-target separation,
-      3 Train-test split (80/20),
-      4 Model training using Linear Regression,
-      5 Model evaluation using:
-        ( R² Score
-         Model coefficients
-         Intercept)  ,
+      1 Dataset creation (synthetic data),    
+      2 Feature-target separation,      
+      3 Train-test split (80/20),       
+      4 Model training using Linear Regression,   
+      5 Model evaluation using:   
+         R² Score    
+         Model coefficients      
+         Intercept  ,   
       6 Prediction on unseen input   
